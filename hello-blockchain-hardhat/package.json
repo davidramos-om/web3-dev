@@ -1,0 +1,22 @@
+{
+  "name": "hello-blockchain-hardhat",
+  "version": "1.0.0",
+  "description": "very fast tutorial using hardhat as local blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "hardhat",
+    "solidity"
+  ],
+  "author": "David Ramoos",
+  "license": "ISC",
+  "dependencies": {
+    "hardhat": "^2.10.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2"
+  }
+}
