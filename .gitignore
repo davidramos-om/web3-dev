@@ -1,4 +1,7 @@
 node_modules
+hello-blockchain-hardhat/node_modules
+hello-blockchain-truffle/node_modules
+hello-blockchain-truffle/ntf-staking-app
 .env
 coverage
 coverage.json
@@ -7,3 +10,11 @@ typechain
 #Hardhat files
 cache
 artifacts
+
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+.env
