@@ -1,4 +1,2 @@
-# How can I become a web3 dev ?  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" height=20 />
-There are my set of project I have been digging into and trying to take in.
 
-#StayTunned
+- <a href="https://github.com/davidramos-om/dapp-milky-swap" target="blank"><img align="center" src="https://davidramos-om.github.io/dapp-milky-swap/assets/logo.c3a7a4bf.png" height="25" />  Milky App </a>
