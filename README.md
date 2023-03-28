@@ -5,3 +5,5 @@
 - <a href="https://github.com/davidramos-om/zk-proof-concept" target="blank"><img align="center" src="https://raw.githubusercontent.com/davidramos-om/zk-proof-concept/main/public/vite.svg" height="25" />  Simulation of Zero Knowledge Proof - The concept  </a>
 - <a href="https://github.com/davidramos-om/merkle-trees" target="blank"><img align="center" src="https://raw.githubusercontent.com/davidramos-om/merkle-trees/main/public/merkle-tree-logo.png"  height="35" width="auto"
  />  Merkle Tree  </a>
+ - <a href="https://github.com/davidramos-om/orbit-db-contron-center" target="blank"><img align="center" src="./orbit-db.png"  height="35" width="auto"
+ />  Orbit DB - Control Center  </a>
